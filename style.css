@@ -1,44 +1,40 @@
-body{
-  background-color: #ededc1;
-  background-size: 70px 70px;
-  background-repeat: repeat-y;
-  background-position: right top;
-  padding: 15px 95px 15px 15px;
+body {
+    background-color: #ededc1;
+    background-size: 70px 70px;
+    background-repeat: repeat-y;
+    background-position: right top;
+    padding: 15px 95px 15px 15px;
 }
 
-#cimkep{
-  float:left;
-  height: 150px;
+#cimkep {
+    float: left;
+    height: 150px;
 }
 
-h1{
-  margin: 40px 0px 100px 175px;
+h1 {
+    margin: 40px 0px 100px 175px;
 }
 
-.h{
+.h {
     margin: 5px;
 }
 
-.h2{
-    margin: 5px;
-    float: right;
+#p {
+    text-align: justify;
+    color: #443502;
 }
 
-#p{
-  text-align: justify;
-  color: #443502;
+.jobbra {
+    text-align: right;
 }
 
-.jobbra{
-  text-align: right;
+.erdekesseg {
+    background-color: white;
+    font-size: 70%;
+    padding: 7px;
+    font-weight: normal;
 }
 
-.erdekesseg{
-  font-size: 70%;
-  padding: 7px;
-  font-weight: normal;
-}
-
-li{
-  font-weight:bold;
+li {
+    font-weight: bold;
 }
